@@ -21,10 +21,11 @@ tr:nth-last-child(odd){
 
 }
 body{
-    
+    font-style: italic;
     background-color: #FBE4E4;
     justify-content: left;
     margin: auto;
+
    
 }
 .h6{
